@@ -1,0 +1,7 @@
+Run in cmd if error occures while cleaning the solution: 
+
+taskkill /f /im chromedriver.exe
+
+taskkill /f /im geckodriver.exe
+
+taskkill /f /im msedgedriver.exe
